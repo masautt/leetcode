@@ -1,4 +1,4 @@
-11.20.23
+11/20/23
 
 So I actually thought I was gonna get this one wrong but in reality I kinda had it.
 
