@@ -6,7 +6,7 @@
 var twoSum = function(nums, target) {
     var cache = {};
     for (var i = 0; i < nums.length; i++) {
-        if (cache[nums[i]]) {
+        if (cache[nums[i]]) { // error here
             return [nums.indexOf(cache[nums[i]]), i]
         }
         cache[target - nums[i]] = nums[i];
