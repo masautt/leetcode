@@ -1,4 +1,4 @@
-03/15/24
+03-15-24
 
 This problem was not in the NeetCode skilltree but was mentioned as a possible interview question.
 

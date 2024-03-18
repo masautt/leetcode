@@ -1,4 +1,4 @@
-12/23/23
+12-23-23
 
 The giveaway to create binary search is the fact the array is sorted.
 
