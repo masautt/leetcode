@@ -1,0 +1,7 @@
+{
+    "name" : "Two Sum",
+    "url" : "https://leetcode.com/problems/two-sum/",
+    "topics" : ["array", "hash table"],
+    "diff" : "easy",
+    "num" : 1
+}

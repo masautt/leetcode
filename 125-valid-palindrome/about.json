@@ -1,0 +1,7 @@
+{
+    "name" : "Valid Palindrome",
+    "url" : "https://leetcode.com/problems/valid-palindrome/",
+    "topics" : ["two pointers", "string"],
+    "diff" : "easy",
+    "num" : 125
+}

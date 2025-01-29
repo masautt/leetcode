@@ -1,0 +1,7 @@
+{
+    "name" : "Fibonacci Number",
+    "url" : "https://leetcode.com/problems/fibonacci-number",
+    "topics" : ["math", "dynamic programming", "recursion", "memoization"],
+    "diff" : "easy",
+    "num" : 509
+}

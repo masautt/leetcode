@@ -1,0 +1,7 @@
+{
+    "name" : "Valid Anagram",
+    "url" : "https://leetcode.com/problems/valid-anagram",
+    "topics" : ["hash table", "string", "sorting"],
+    "diff" : "easy",
+    "num" : 242
+}

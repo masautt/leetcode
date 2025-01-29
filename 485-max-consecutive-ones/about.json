@@ -1,0 +1,7 @@
+{
+    "name" : "Max Consecutive Ones",
+    "url" : "https://leetcode.com/problems/max-consecutive-ones",
+    "topics" : ["array"],
+    "diff" : "easy",
+    "num" : 485
+}

@@ -1,0 +1,7 @@
+{
+    "name" : "Min Stack",
+    "url" : "https://leetcode.com/problems/min-stack/",
+    "topics" : ["stack", "design"],
+    "diff" : "medium",
+    "num" : 155
+}

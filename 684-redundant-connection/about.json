@@ -1,0 +1,7 @@
+{
+    "name" : "Redundant Connection",
+    "url" : "https://leetcode.com/problems/redundant-connection",
+    "topics" : ["depth-first search", "breadth-first search", "union find", "graph"],
+    "diff" : "medium",
+    "num" : 684
+}
