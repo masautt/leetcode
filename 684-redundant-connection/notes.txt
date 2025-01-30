@@ -1,0 +1,25 @@
+Definitions
+
+1. Map : Better Key-value store than js obj
+    Allows any type to be the Key (not just string)
+    Preserves key insertion order 
+        { for (const [key, value] of myMap) console.log(key, value)}
+    Faster lookups
+    Possibly faster deletes
+        Some js engines might restructure the object in mem after deletion
+
+2. Set : Better Array with unique values and quick lookups 
+    Prevents duplciates automatically 
+        mySet.add(1); mySet.add(1); mySet.size --> 1 not 2
+    Faster lookups
+        mySet.has(10) --> O(1)
+        myArray.includes(10) --> O(n)
+    Faster deletion 
+        mySet.delete(10) --> O(1)
+        mySet.splice() --> O(n)
+
+
+3. Graph : Represent relationships between entities using nodes and edges
+    private adjacencyList: Map<T, Set<T>>;
+
+4. adjacencyList : each key points to a collection of adjacent nodes
